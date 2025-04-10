@@ -9,7 +9,7 @@ Please describe the project in this section. Include info such as
   * Animal model, what strain, age, how many, experimental conditions
   * How was the project carried out?
 
-Also, describe any code, scripts, or software used to process, visualize, analyze, and/or compress the data
+Also, describe any code, scripts, or software used to process, visualize, analyze, and/or compress the data  
 **Softwares Used:** Microsoft Excel, LabChart, Graphpad Prism 
 
 ## Grant Information
