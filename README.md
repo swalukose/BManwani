@@ -38,9 +38,6 @@ Add this info here
 
 
 ## License Information
-
-LICENSE
-
 MIT License
 
 Copyright (c) 2025 swalukose
