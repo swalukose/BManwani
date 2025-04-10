@@ -10,7 +10,7 @@ Please describe the project in this section. Include info such as
   * How was the project carried out?
 
 Also, describe any code, scripts, or software used to process, visualize, analyze, and/or compress the data  
-**Softwares Used:** Microsoft Excel, LabChart, Graphpad Prism 
+**Softwares Used:** Microsoft Excel, LabChart, GraphPad Prism 
 
 ## Grant Information
 
