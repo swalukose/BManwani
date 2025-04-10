@@ -1,4 +1,4 @@
-# Sex Differences in Cardio-Embolic strokes: The triad of Arrhythmogenesis, Thrombosis and Inflammation
+# Sex Differences in Cardio-Embolic Strokes: The Triad of Arrhythmogenesis, Thrombosis and Inflammation
 
 ## Project Description
 
