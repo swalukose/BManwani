@@ -14,7 +14,7 @@ Also, describe any code, scripts, or software used to process, visualize, analyz
 
 ## Grant Information
 
-IGrant Number: 
+Grant Number: #20CDA35310306
 
 
 ## Citation information to any relevant publications
@@ -34,7 +34,11 @@ Add this info here
 
 ## How to credit you 
 
-Add this info here 
+Bharti Manwani, MD, PhD, FAHA  
+Associate Professor    
+Department of Neurology   
+University of Texas Health Science Center Houston   
+
 
 
 ## License Information
