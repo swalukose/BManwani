@@ -19,20 +19,15 @@ Grant Number: #20CDA35310306
 
 ## Citation information to any relevant publications
 
-Include citation info here in the following format
-* [Version Control](https://en.wikipedia.org/wiki/Version_control)
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Pro Git](https://git-scm.com/book/en/v2)
-* [Dev Docs](https://devdocs.io/)
+N/A
 
 
 ## Links/information to other repository data
 
-Add this info here 
+N/A
 
 
-## How to credit you 
+## How to credit  
 
 Bharti Manwani, MD, PhD, FAHA  
 Associate Professor    
