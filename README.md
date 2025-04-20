@@ -6,9 +6,12 @@
            * 5 WT AnkB Females, 4 WT AnkB Males, 3 Heterozygous AnkB Females, 3 Heterozygous AnkB Males
            * 21 C57BL/6 Males, 12 C57BL/6 Females
        * AnkB mice spontaneously develop atrial fibrillation 
-  * DSI telemonitors were surgically implanted into all animals. The following day post-surgery, the C57BL/6 mice were injected intraperitoneally with carbachol, a drug that induces atrial fibrillation. The AnkB mice did not receive any injections. EKGs were then recorded for 8 hours and analyzed using LabChart. 
+ * Experimental Design
+       * DSI telemonitors were surgically implanted into all animals. The following day post-surgery, the C57BL/6 mice were injected intraperitoneally with carbachol, a drug that induces atrial fibrillation. The AnkB mice did not receive any injections. EKGs were then recorded for 8 hours and analyzed using LabChart. 
 
-**Softwares Used:** Microsoft Excel, LabChart, GraphPad Prism 
+**Software Used:** Microsoft Excel, LabChart, GraphPad Prism
+       * LabChart was used to acquire and analyze the ECG raw data
+       * Microsoft Excel and Prism were both used to analyze the data and generate figures
 
 ## Grant Information
 
