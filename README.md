@@ -39,4 +39,7 @@ University of Texas Health Science Center Houston
 
 ## License Information
 
+This work is licensed under CC BY-NC-ND 4.0 
+
+
 - - -
