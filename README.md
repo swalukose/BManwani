@@ -1,15 +1,14 @@
-# Sex Differences in Cardio-Embolic Strokes: The Triad of Arrhythmogenesis, Thrombosis and Inflammation
+# Sex Differences in Cardio-Embolic Strokes: The Triad of Arrhythmogenesis, Thrombosis, and Inflammation
 
 ## Project Description
-
-Please describe the project in this section. Include info such as
-
-* Project info 
-  * Participants (male, female, age, disease), how many, intervention, experimental conditions
-  * Animal model, what strain, age, how many, experimental conditions
+  * Animal Model
+       * Aged (19-23 months old) 15 Ankyrin B (AnkB) mice and 33 C57BL/6 mice
+           * 5 WT AnkB Females, 4 WT AnkB Males, 3 Heterozygous AnkB Females, 3 Heterozygous AnkB Males
+           * 21 C57BL/6 Males, 12 C57BL/6 Females
+       * AnkB mice spontaneously develop atrial fibrillation 
+  * DSI telemonitors were surgically implanted into the mice
   * How was the project carried out?
 
-Also, describe any code, scripts, or software used to process, visualize, analyze, and/or compress the data  
 **Softwares Used:** Microsoft Excel, LabChart, GraphPad Prism 
 
 ## Grant Information
@@ -24,7 +23,7 @@ N/A
 
 ## Links/information to other repository data
 
-N/A
+https://dataverse.harvard.edu/file.xhtml?fileId=10594551&version=1.0
 
 
 ## How to credit  
