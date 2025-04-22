@@ -2,12 +2,9 @@
 
 ## Project Description
   * **Animal Model**
-       * Aged (19-23 months old) 15 Ankyrin B (AnkB) mice and 33 C57BL/6 mice
-           * 5 WT AnkB Females, 4 WT AnkB Males, 3 Heterozygous AnkB Females, 3 Heterozygous AnkB Males
-           * 21 C57BL/6 Males, 12 C57BL/6 Females
-       * AnkB mice spontaneously develop atrial fibrillation 
+       * Aged (19-23 months old) Ankyrin B (AnkB) heterozygous and wild type littermate mice, and C57BL/6J wild type mice, both males and females
   * **Experimental Design**
-       * DSI telemonitors were surgically implanted into all animals. The following day post-surgery, the C57BL/6 mice were injected intraperitoneally with carbachol, a drug that induces atrial fibrillation. The AnkB mice did not receive any injections. EKGs were then recorded for 8 hours and analyzed using LabChart. 
+       * DSI ETA-F10 telemonitors were surgically implanted into all animals. The following day post-surgery, the C57BL/6J mice were injected intraperitoneally with carbachol, a drug that induces atrial fibrillation. The AnkB mice did not receive any injections. EKGs were then recorded for 8 hours and analyzed using LabChart. 
 
 * **Softwares Used:** Microsoft Excel, LabChart, GraphPad Prism
   *  LabChart was used to acquire and analyze the ECG raw data
